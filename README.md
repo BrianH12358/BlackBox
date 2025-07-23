@@ -1,2 +1,2 @@
 # BlackBox
-Capstone project for AI/ML program
+Capstone project for Imperial Business School AI/ML program
